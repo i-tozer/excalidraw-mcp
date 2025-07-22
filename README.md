@@ -2,6 +2,10 @@
 
 This is a Model Context Protocol (MCP) server for Excalidraw, providing API functionality for operating on Excalidraw drawings.
 
+<a href="https://glama.ai/mcp/servers/@i-tozer/excalidraw-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@i-tozer/excalidraw-mcp/badge" alt="Excalidraw Server MCP server" />
+</a>
+
 ## Features
 
 - Create, read, update, and delete Excalidraw drawings
@@ -80,4 +84,4 @@ npm run dev
 
 ## License
 
-MIT 
+MIT
